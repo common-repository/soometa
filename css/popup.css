@@ -1,0 +1,14 @@
+.soometa-popup {
+    margin: 0px!important;
+    width: auto!important;
+    left: 10px!important;
+    right: 10px!important;
+}
+
+.soometa-popup #TB_iframeContent {
+    width: 100%!important;
+}
+
+.soometa-iframe {
+    width: 100%;
+}
